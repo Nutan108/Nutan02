@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="33639" started-at="2021-05-13T10:50:37Z" finished-at="2021-05-13T10:51:11Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="33639" started-at="2021-05-13T10:50:37Z" finished-at="2021-05-13T10:51:11Z">
+      <class name="cal1.com.Cal3">
+        <test-method status="PASS" signature="Setup1()[pri:0, instance:cal1.com.Cal3@1a0dcaa]" name="Setup1" is-config="true" duration-ms="28402" started-at="2021-05-13T10:50:37Z" finished-at="2021-05-13T10:51:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup1 -->
+        <test-method status="PASS" signature="add()[pri:1, instance:cal1.com.Cal3@1a0dcaa]" name="add" duration-ms="1474" started-at="2021-05-13T10:51:06Z" finished-at="2021-05-13T10:51:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add -->
+        <test-method status="PASS" signature="sub()[pri:2, instance:cal1.com.Cal3@1a0dcaa]" name="sub" duration-ms="1215" started-at="2021-05-13T10:51:07Z" finished-at="2021-05-13T10:51:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sub -->
+        <test-method status="PASS" signature="multiplication()[pri:3, instance:cal1.com.Cal3@1a0dcaa]" name="multiplication" duration-ms="496" started-at="2021-05-13T10:51:09Z" finished-at="2021-05-13T10:51:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multiplication -->
+        <test-method status="PASS" signature="div()[pri:4, instance:cal1.com.Cal3@1a0dcaa]" name="div" duration-ms="641" started-at="2021-05-13T10:51:09Z" finished-at="2021-05-13T10:51:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- div -->
+        <test-method status="PASS" signature="close1()[pri:0, instance:cal1.com.Cal3@1a0dcaa]" name="close1" is-config="true" duration-ms="1244" started-at="2021-05-13T10:51:10Z" finished-at="2021-05-13T10:51:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close1 -->
+      </class> <!-- cal1.com.Cal3 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
